@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="434" measuredH="362" mockupW="393" mockupH="322">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="41" y="40" w="393" h="322" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Advertiser%20-%20Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="148" y="109" w="214" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="72" y="112" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="72" y="145" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="148" y="142" w="214" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="160" y="177" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>advertiser-control-panel%26bm%3Badvertiser-control-panel.bmml%26bm%3Badvertiser-control-panel.bmml%26bm%3Badvertiser-control-panel.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C137%2C173%2C164%22%20href%3D%22advertiser-control-panel.bmml%22%20alt%3D%22advertiser-control-panel%22%20id%3D%227%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="58" y="252" w="-1" h="-1" measuredW="358" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Don%27t%20have%20account%20yet%3F%20Why%20don%27t%20you%20register%20one%20for%20free%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="148" y="282" w="-1" h="-1" measuredW="181" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>advertiser-register%26bm%3Badvertiser-register.bmml%26bm%3Badvertiser-register.bmml%26bm%3Badvertiser-register.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22107%2C242%2C288%2C269%22%20href%3D%22advertiser-register.bmml%22%20alt%3D%22advertiser-register%22%20id%3D%229%22/%3E</map>
+        <text>Register%20Account%20For%20Free%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="221" y="177" w="-1" h="-1" measuredW="141" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>advertiser-forget-credential%26bm%3Badvertiser-forget-credential.bmml%26bm%3Badvertiser-forget-credential.bmml%26bm%3Badvertiser-forget-credential.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C137%2C321%2C164%22%20href%3D%22advertiser-forget-credential.bmml%22%20alt%3D%22advertiser-forget-credential%22%20id%3D%2211%22/%3E</map>
+        <text>Forget%20My%20Password</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
