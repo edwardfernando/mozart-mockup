@@ -335,17 +335,19 @@
     <control controlID="31" controlTypeID="com.balsamiq.mockups::IconLabel" x="157" y="305" w="-1" h="-1" measuredW="51" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2575891</color>
+        <href>advertiser-campaign-create%26bm%3Badvertiser-campaign-create.bmml%26bm%3Badvertiser-campaign-create.bmml%26bm%3Badvertiser-campaign-create.bmml</href>
         <icon>PencilIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C299%2C193%2C323%22%20href%3D%22advertiser-campaign-create.bmml%22%20alt%3D%22advertiser-campaign-create%22%20id%3D%2231%22/%3E</map>
         <text>Edit</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="369" y="305" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="369" y="305" w="-1" h="-1" measuredW="61" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2575891</color>
         <icon>ShapesIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
-        <text>Requirements</text>
+        <text>Rules</text>
       </controlProperties>
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="877" y="305" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
@@ -364,7 +366,7 @@
         <text>Duplicate</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="490" y="305" w="-1" h="-1" measuredW="70" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="440" y="305" w="-1" h="-1" measuredW="70" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2575891</color>
         <icon>ContactsIcon%7Csmall</icon>
@@ -537,7 +539,7 @@
         <text>Campaign%20Manager</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::IconLabel" x="571" y="305" w="-1" h="-1" measuredW="126" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::IconLabel" x="521" y="305" w="-1" h="-1" measuredW="126" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2575891</color>
         <icon>SpinningIcon%7Csmall</icon>
