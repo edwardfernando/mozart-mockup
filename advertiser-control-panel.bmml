@@ -317,7 +317,7 @@
     </control>
     <control controlID="52" controlTypeID="com.balsamiq.mockups::Image" x="865" y="326" w="77" h="77" measuredW="280" measuredH="280" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
+        <src>./assets/5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -385,7 +385,7 @@
     </control>
     <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="866" y="545" w="77" h="77" measuredW="280" measuredH="280" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
+        <src>../../Desktop/5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -453,7 +453,7 @@
     </control>
     <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="865" y="436" w="77" h="77" measuredW="275" measuredH="275" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../366439-apple-starbucks-launch-red-gift-cards-for-world-aids-day.jpg</src>
+        <src>./assets/366439-apple-starbucks-launch-red-gift-cards-for-world-aids-day.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -505,21 +505,21 @@
         <text>Learn%20More</text>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::Image" x="34" y="754" w="65" h="64" measuredW="654" measuredH="628" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Image" x="38" y="763" w="47" h="47" measuredW="236" measuredH="213" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../CleanAirCampaignLogo.jpg</src>
+        <src>./assets/images%2520%281%29.jpeg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::Image" x="103" y="761" w="53" h="51" measuredW="227" measuredH="222" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Image" x="103" y="761" w="53" h="51" measuredW="654" measuredH="628" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../images.jpeg</src>
+        <src>./assets/CleanAirCampaignLogo.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Image" x="161" y="761" w="53" h="51" measuredW="438" measuredH="316" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Image" x="161" y="761" w="53" h="51" measuredW="227" measuredH="222" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Screen%2520Shot%25202013-09-14%2520at%252010.25.15%2520PM.png</src>
+        <src>./assets/images.jpeg</src>
         <text/>
       </controlProperties>
     </control>
@@ -530,21 +530,21 @@
         <text>Sponsorized%2C%20get%20involved%2C%20or%20do%20collaboration%20with%20following%20campaign%20to%20broaden%20your%20market%20segment.</text>
       </controlProperties>
     </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="40" y="827" w="53" h="51" measuredW="1997" measuredH="1693" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="40" y="827" w="53" h="51" measuredW="438" measuredH="316" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Western_Cape_Anti-Eviction_Campaign_Logo.jpg</src>
+        <src>./assets/Screen%2520Shot%25202013-09-14%2520at%252010.25.15%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Image" x="102" y="827" w="53" h="51" measuredW="470" measuredH="276" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Image" x="102" y="827" w="53" h="51" measuredW="1997" measuredH="1693" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../talking-food-taking-action-orange-logo_470x276.jpg</src>
+        <src>./assets/Western_Cape_Anti-Eviction_Campaign_Logo.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::Image" x="161" y="827" w="53" h="51" measuredW="236" measuredH="213" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Image" x="161" y="827" w="53" h="51" measuredW="470" measuredH="276" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../images%2520%281%29.jpeg</src>
+        <src>./assets/talking-food-taking-action-orange-logo_470x276.jpg</src>
         <text/>
       </controlProperties>
     </control>
