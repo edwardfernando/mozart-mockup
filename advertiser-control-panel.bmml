@@ -325,7 +325,7 @@
         <text>buzzed%20to</text>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="866" y="545" w="77" h="77" measuredW="280" measuredH="280" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="866" y="545" w="77" h="77" measuredW="77" measuredH="79" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../../Desktop/5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
         <text/>
@@ -437,116 +437,120 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="100" controlTypeID="com.balsamiq.mockups::FieldSet" x="28" y="682" w="200" h="249" measuredW="200" measuredH="170" zOrder="40" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Broaden%20your%20market</text>
-      </controlProperties>
-    </control>
-    <control controlID="109" controlTypeID="com.balsamiq.mockups::Link" x="146" y="907" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="41" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Learn%20More</text>
-      </controlProperties>
-    </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::Image" x="38" y="763" w="47" h="47" measuredW="236" measuredH="213" zOrder="42" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/images%2520%281%29.jpeg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::Image" x="103" y="761" w="53" h="51" measuredW="654" measuredH="628" zOrder="43" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/CleanAirCampaignLogo.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Image" x="161" y="761" w="53" h="51" measuredW="227" measuredH="222" zOrder="44" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/images.jpeg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::Paragraph" x="38" y="701" w="183" h="61" measuredW="200" measuredH="80" zOrder="45" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>left</align>
-        <size>10</size>
-        <text>Sponsorized%2C%20get%20involved%2C%20or%20do%20collaboration%20with%20following%20campaign%20to%20broaden%20your%20market%20segment.</text>
-      </controlProperties>
-    </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="40" y="827" w="53" h="51" measuredW="438" measuredH="316" zOrder="46" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/Screen%2520Shot%25202013-09-14%2520at%252010.25.15%2520PM.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Image" x="102" y="827" w="53" h="51" measuredW="1997" measuredH="1693" zOrder="47" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/Western_Cape_Anti-Eviction_Campaign_Logo.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::Image" x="161" y="827" w="53" h="51" measuredW="470" measuredH="276" zOrder="48" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/talking-food-taking-action-orange-logo_470x276.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="120" controlTypeID="com.balsamiq.mockups::HRule" x="258" y="291" w="293" h="-1" measuredW="100" measuredH="10" zOrder="49" locked="false" isInGroup="-1"/>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="561" y="284" w="92" h="-1" measuredW="84" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::HRule" x="258" y="291" w="293" h="-1" measuredW="100" measuredH="10" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="561" y="284" w="92" h="-1" measuredW="84" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Buzz%20Streams</text>
       </controlProperties>
     </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::HRule" x="649" y="291" w="293" h="-1" measuredW="100" measuredH="10" zOrder="51" locked="false" isInGroup="-1"/>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::FieldSet" x="28" y="301" w="200" h="203" measuredW="200" measuredH="170" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::HRule" x="649" y="291" w="293" h="-1" measuredW="100" measuredH="10" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::FieldSet" x="28" y="301" w="200" h="203" measuredW="200" measuredH="170" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>All%20Campaign%20Insight</text>
       </controlProperties>
     </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="43" y="462" w="42" h="-1" measuredW="37" measuredH="28" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="43" y="462" w="42" h="-1" measuredW="37" measuredH="28" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <size>20</size>
         <text>766</text>
       </controlProperties>
     </control>
-    <control controlID="125" controlTypeID="com.balsamiq.mockups::Paragraph" x="39" y="488" w="64" h="20" measuredW="200" measuredH="80" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Paragraph" x="39" y="488" w="64" h="20" measuredW="200" measuredH="80" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <size>9</size>
         <text>Total%20Share</text>
       </controlProperties>
     </control>
-    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="176" y="462" w="39" h="-1" measuredW="38" measuredH="28" zOrder="55" locked="false" isInGroup="-1">
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="176" y="462" w="39" h="-1" measuredW="38" measuredH="28" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <size>20</size>
         <text>1%2C5K</text>
       </controlProperties>
     </control>
-    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="173" y="488" w="52" h="20" measuredW="200" measuredH="80" zOrder="56" locked="false" isInGroup="-1">
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="173" y="488" w="52" h="20" measuredW="200" measuredH="80" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <size>9</size>
         <text>Track%20Back</text>
       </controlProperties>
     </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="105" y="462" w="54" h="-1" measuredW="51" measuredH="28" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="105" y="462" w="54" h="-1" measuredW="51" measuredH="28" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <size>20</size>
         <text>3423</text>
       </controlProperties>
     </control>
-    <control controlID="129" controlTypeID="com.balsamiq.mockups::Link" x="90" y="445" w="-1" h="-1" measuredW="72" measuredH="17" zOrder="58" locked="false" isInGroup="-1">
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Link" x="90" y="445" w="-1" h="-1" measuredW="72" measuredH="17" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <size>11</size>
         <text>View%20All%20Graph</text>
       </controlProperties>
     </control>
-    <control controlID="130" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="488" w="80" h="20" measuredW="200" measuredH="80" zOrder="59" locked="false" isInGroup="-1">
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Paragraph" x="98" y="488" w="80" h="20" measuredW="200" measuredH="80" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <size>9</size>
         <text>People%20Reached</text>
       </controlProperties>
     </control>
-    <control controlID="131" controlTypeID="com.balsamiq.mockups::LineChart" x="41" y="321" w="170" h="115" measuredW="187" measuredH="175" zOrder="60" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::LineChart" x="41" y="321" w="170" h="115" measuredW="187" measuredH="175" zOrder="52" locked="false" isInGroup="-1"/>
+    <control controlID="132" controlTypeID="__group__" x="28" y="682" w="200" h="249" measuredW="200" measuredH="249" zOrder="40" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="200" h="249" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="132">
+          <controlProperties>
+            <text>Broaden%20your%20market</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="118" y="225" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="1" locked="false" isInGroup="132">
+          <controlProperties>
+            <text>Learn%20More</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="10" y="81" w="47" h="47" measuredW="236" measuredH="213" zOrder="2" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/images%2520%281%29.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="75" y="79" w="53" h="51" measuredW="654" measuredH="628" zOrder="3" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/CleanAirCampaignLogo.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="133" y="79" w="53" h="51" measuredW="227" measuredH="222" zOrder="4" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/images.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="10" y="19" w="183" h="61" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="132">
+          <controlProperties>
+            <align>left</align>
+            <size>10</size>
+            <text>Sponsorized%2C%20get%20involved%2C%20or%20do%20collaboration%20with%20following%20campaign%20to%20broaden%20your%20market%20segment.</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="12" y="145" w="53" h="51" measuredW="438" measuredH="316" zOrder="6" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/Screen%2520Shot%25202013-09-14%2520at%252010.25.15%2520PM.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="74" y="145" w="53" h="51" measuredW="1997" measuredH="1693" zOrder="7" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/Western_Cape_Anti-Eviction_Campaign_Logo.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="133" y="145" w="53" h="51" measuredW="470" measuredH="276" zOrder="8" locked="false" isInGroup="132">
+          <controlProperties>
+            <src>./assets/talking-food-taking-action-orange-logo_470x276.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
   </controls>
 </mockup>
