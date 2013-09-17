@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1302" measuredH="961" mockupW="1263" mockupH="941">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1302" measuredH="972" mockupW="1263" mockupH="952">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="347" y="20" w="955" h="941" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="347" y="20" w="955" h="952" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Advertiser%20-%20Control%20Panel%20/%20Create%20Campaign</text>
         <topheight>26</topheight>
