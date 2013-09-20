@@ -6,9 +6,13 @@
         <topheight>26</topheight>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="__group__" x="28" y="123" w="200" h="153" measuredW="200" measuredH="153" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="__group__" x="42" y="118" w="174" h="169" measuredW="174" measuredH="169" zOrder="1" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="200" h="153" measuredW="177" measuredH="146" zOrder="0" locked="false" isInGroup="8"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="174" h="169" measuredW="956" measuredH="972" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <src>./assets/starbucks-coffee-logo.gif</src>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="10" controlTypeID="__group__" x="246" y="123" w="718" h="568" measuredW="718" measuredH="568" zOrder="2" locked="false" isInGroup="-1">
@@ -23,12 +27,12 @@
             <color>14540253</color>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="16" w="435" h="-1" measuredW="392" measuredH="35" zOrder="1" locked="false" isInGroup="10">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="15" y="16" w="435" h="-1" measuredW="380" measuredH="35" zOrder="1" locked="false" isInGroup="10">
           <controlProperties>
             <align>left</align>
             <bold>true</bold>
             <size>32</size>
-            <text>Horas%2C%20Startbucks%20Coffee%21</text>
+            <text>Horas%2C%20Starbucks%20Coffee%21</text>
           </controlProperties>
         </control>
         <control controlID="4" controlTypeID="__group__" x="15" y="65" w="650" h="73" measuredW="650" measuredH="73" zOrder="2" locked="false" isInGroup="10">
