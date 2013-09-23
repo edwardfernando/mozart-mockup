@@ -507,8 +507,10 @@
     </control>
     <control controlID="47" controlTypeID="com.balsamiq.mockups::IconLabel" x="836" y="207" w="-1" h="-1" measuredW="118" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>advertiser-campaign-create%26bm%3Badvertiser-campaign-create.bmml%26bm%3Badvertiser-campaign-create.bmml%26bm%3Badvertiser-campaign-create.bmml</href>
         <icon>PlusBigIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C201%2C939%2C225%22%20href%3D%22advertiser-campaign-create.bmml%22%20alt%3D%22advertiser-campaign-create%22%20id%3D%2247%22/%3E</map>
         <text>New%20Campaign</text>
       </controlProperties>
     </control>
@@ -693,7 +695,7 @@
             <icon>CircledXIcon%7Csmall</icon>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="10" y="7" w="-1" h="-1" measuredW="237" measuredH="24" zOrder="2" locked="false" isInGroup="207">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="10" y="7" w="237" h="-1" measuredW="237" measuredH="24" zOrder="2" locked="false" isInGroup="207">
           <controlProperties>
             <size>16</size>
             <text>4th%20July%20Campaign%20-%20Buzzer%20List</text>
@@ -751,7 +753,7 @@
             <icon>BloggerIcon%7Cxsmall</icon>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="217" y="86" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="11" locked="false" isInGroup="207">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="217" y="86" w="28" h="-1" measuredW="28" measuredH="21" zOrder="11" locked="false" isInGroup="207">
           <controlProperties>
             <bold>true</bold>
             <color>472931</color>
@@ -785,7 +787,7 @@
             <icon>TwitterIcon%7Cxsmall</icon>
           </controlProperties>
         </control>
-        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="154" y="171" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="17" locked="false" isInGroup="207">
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="154" y="171" w="17" h="-1" measuredW="17" measuredH="21" zOrder="17" locked="false" isInGroup="207">
           <controlProperties>
             <bold>true</bold>
             <color>472931</color>
@@ -844,7 +846,7 @@
             <icon>BloggerIcon%7Cxsmall</icon>
           </controlProperties>
         </control>
-        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="251" y="252" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="25" locked="false" isInGroup="207">
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="251" y="252" w="30" h="-1" measuredW="30" measuredH="21" zOrder="25" locked="false" isInGroup="207">
           <controlProperties>
             <bold>true</bold>
             <color>472931</color>
@@ -875,7 +877,7 @@
             <color>0</color>
           </controlProperties>
         </control>
-        <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="139" y="315" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="31" locked="false" isInGroup="207">
+        <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="139" y="315" w="57" h="-1" measuredW="57" measuredH="24" zOrder="31" locked="false" isInGroup="207">
           <controlProperties>
             <size>16</size>
             <text>%5BView%20All%5D</text>

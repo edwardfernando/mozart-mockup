@@ -1,0 +1,391 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1090" measuredH="714" mockupW="1039" mockupH="688">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="51" y="26" w="1039" h="688" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buzzer%20/%20Home%20</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="100" y="223" w="944" h="457" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="100" y="155" w="177" h="146" measuredW="177" measuredH="146" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="-1" h="-1" measuredW="177" measuredH="146" zOrder="0" locked="false" isInGroup="3"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="638" y="76" w="167" h="29" measuredW="167" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="133" h="-1" measuredW="122" measuredH="28" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <align>center</align>
+            <color>16777215</color>
+            <size>20</size>
+            <text>Eric%20Cartman</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="137" y="3" w="30" h="26" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13576743</borderColor>
+            <color>13576743</color>
+            <shape>circle</shape>
+            <size>10</size>
+            <text>6</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="979" y="78" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>XIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="74" y="76" w="1000" h="44" measuredW="1000" measuredH="44" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1000" h="44" measuredW="1000" measuredH="44" zOrder="0" locked="false" isInGroup="12">
+          <controlProperties>
+            <controlName>tb-navbar</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1000" h="44" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>left</align>
+                <color>3355443</color>
+                <shape>roundRect</shape>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="13" y="7" w="153" h="-1" measuredW="136" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <text>Buzzer%20Field</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="260" y="2" w="74" h="40" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>3355443</borderColor>
+                <color>0</color>
+                <shape>rectangle</shape>
+                <size>13</size>
+                <text>Profile</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="174" y="2" w="86" h="40" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0.5</backgroundAlpha>
+                <borderColor>3355443</borderColor>
+                <color>0</color>
+                <shape>rectangle</shape>
+                <size>13</size>
+                <text>Home</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="334" y="2" w="90" h="40" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>3355443</borderColor>
+                <color>0</color>
+                <shape>rectangle</shape>
+                <size>13</size>
+                <text>Campaign</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="893" y="84" w="167" h="29" measuredW="167" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="133" h="-1" measuredW="122" measuredH="28" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <align>center</align>
+            <color>16777215</color>
+            <size>20</size>
+            <text>Eric%20Cartman</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="137" y="3" w="30" h="26" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13576743</borderColor>
+            <color>13576743</color>
+            <shape>circle</shape>
+            <size>10</size>
+            <text>6</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="318" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>square</borderStyle>
+        <icon>DotHollowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Buzz%20Streams</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="347" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotHollowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Your%20Campaign</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::VSplitter" x="324" y="626" w="687" h="-1" measuredW="100" measuredH="11" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="318" y="286" w="693" h="97" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="387" y="290" w="-1" h="-1" measuredW="97" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Eric%20Cartman</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="462" y="348" w="-1" h="-1" measuredW="46" measuredH="20" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>just%20now</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="387" y="315" w="547" h="43" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Just%20knowing%20that%20starbucks%20coffee%20launches%20its%20new%20promo%2C%20buy%201%20get%202%20only%20for%202%20days%21%0ADon%27t%20you%20think%20it%27s%20a%20great%20deal%3F%20Grab%20it%20fast%21%20%23starbucks%20%23otherTag%20http%3A//go.in/37xjY</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Webcam" x="323" y="291" w="58" h="52" measuredW="177" measuredH="146" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Icon" x="548" y="293" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Icon" x="564" y="293" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Icon" x="582" y="293" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DeliciousIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="387" y="351" w="56" h="16" measuredW="56" measuredH="16" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="34">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="34">
+          <controlProperties>
+            <icon>ThumbsDownIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="34">
+          <controlProperties>
+            <icon>FlagIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="490" y="291" w="-1" h="-1" measuredW="55" measuredH="20" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>buzzed%20to</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="925" y="294" w="77" h="77" measuredW="280" measuredH="280" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::VRule" x="448" y="347" w="-1" h="22" measuredW="10" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="319" y="505" w="693" h="97" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="388" y="509" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Josh%20Miguel</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="463" y="567" w="-1" h="-1" measuredW="64" measuredH="20" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>2%20hours%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Paragraph" x="388" y="534" w="547" h="43" measuredW="200" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Just%20get%20my%20free%20latte.%20Wohoo.%20Thanks%20@starbucks%21%20you%20really%20made%20my%20day%21%20%234thJuly%20%23otherTag%20http%3A//go.in/37xjY</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Webcam" x="324" y="510" w="58" h="52" measuredW="177" measuredH="146" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="540" y="513" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="__group__" x="388" y="570" w="56" h="16" measuredW="56" measuredH="16" zOrder="28" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="44">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="44">
+          <controlProperties>
+            <icon>ThumbsDownIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="44">
+          <controlProperties>
+            <icon>FlagIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="481" y="510" w="-1" h="-1" measuredW="55" measuredH="20" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>buzzed%20to</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::VRule" x="449" y="566" w="-1" h="22" measuredW="10" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="318" y="396" w="693" h="97" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="387" y="400" w="-1" h="-1" measuredW="111" measuredH="22" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Michele%20Gordon</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="462" y="458" w="-1" h="-1" measuredW="84" measuredH="20" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>29%20minutes%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Paragraph" x="387" y="425" w="547" h="43" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campaign%20%23givePennies%20by%20%23startbucks%20coffee.%20All%20of%20your%20pennies%20will%20be%20donated%20to%20%23kingRed%20foundation%20%7E%20to%20help%20people%20in%20Africa.%20Get%20involved%20now%21%20http%3A//go.in/8xoY</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Webcam" x="323" y="401" w="58" h="52" measuredW="177" measuredH="146" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Icon" x="559" y="404" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="387" y="461" w="56" h="16" measuredW="56" measuredH="16" zOrder="37" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="53">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <icon>ThumbsDownIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="53">
+          <controlProperties>
+            <icon>FlagIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="500" y="401" w="-1" h="-1" measuredW="55" measuredH="20" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>buzzed%20to</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="925" y="404" w="77" h="77" measuredW="275" measuredH="275" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/366439-apple-starbucks-launch-red-gift-cards-for-world-aids-day.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::VRule" x="448" y="457" w="-1" h="22" measuredW="10" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Icon" x="595" y="403" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LinkedInIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Icon" x="577" y="403" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RedditIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::HRule" x="318" y="259" w="293" h="-1" measuredW="100" measuredH="10" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="621" y="252" w="92" h="-1" measuredW="84" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buzz%20Streams</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::HRule" x="709" y="259" w="293" h="-1" measuredW="100" measuredH="10" zOrder="45" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Image" x="925" y="515" w="77" h="77" measuredW="280" measuredH="280" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/5%2520on%2520Friday%2520Logo%2520-%2520Final%2520-%2520for%2520blog%2520side%2520menu-.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="375" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotHollowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Media%20Channel%20%26%20Rate</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="401" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotHollowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Account</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
