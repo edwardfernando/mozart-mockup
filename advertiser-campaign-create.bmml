@@ -1,12 +1,12 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1302" measuredH="972" mockupW="1263" mockupH="952">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1302" measuredH="1211" mockupW="1263" mockupH="1191">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="347" y="20" w="955" h="952" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="347" y="20" w="955" h="1191" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Advertiser%20-%20Control%20Panel%20/%20Create%20Campaign</text>
         <topheight>26</topheight>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="208" w="940" h="727" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="208" w="940" h="891" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>14540253</borderColor>
         <borderStyle>roundedSolid</borderStyle>
@@ -405,9 +405,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="153" controlTypeID="__group__" x="49" y="307" w="600" h="579" measuredW="600" measuredH="579" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="153" controlTypeID="__group__" x="49" y="307" w="600" h="743" measuredW="600" measuredH="743" zOrder="8" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="315" y="0" w="285" h="579" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="153">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="315" y="0" w="285" h="743" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="153">
           <controlProperties>
             <text>Component</text>
           </controlProperties>
@@ -654,7 +654,7 @@
             <text>600x300%2C%20max%203mb.%20JPG%20%26%20PNG</text>
           </controlProperties>
         </control>
-        <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="399" y="503" w="156" h="27" measuredW="100" measuredH="27" zOrder="19" locked="false" isInGroup="153">
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="377" y="678" w="156" h="27" measuredW="100" measuredH="27" zOrder="19" locked="false" isInGroup="153">
           <controlProperties>
             <text>Next%20%3E%20Rules</text>
           </controlProperties>
@@ -787,9 +787,50 @@
             <text>Save%20%26%20Publish</text>
           </controlProperties>
         </control>
+        <control controlID="57" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="484" w="-1" h="-1" measuredW="126" measuredH="22" zOrder="48" locked="false" isInGroup="153">
+          <controlProperties>
+            <state>selected</state>
+            <text>Food%20%26%20Beverages</text>
+          </controlProperties>
+        </control>
+        <control controlID="58" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="509" w="-1" h="-1" measuredW="127" measuredH="22" zOrder="49" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Clothes%20%26%20Apperal</text>
+          </controlProperties>
+        </control>
+        <control controlID="59" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="533" w="-1" h="-1" measuredW="86" measuredH="22" zOrder="50" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Technology</text>
+          </controlProperties>
+        </control>
+        <control controlID="60" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="558" w="-1" h="-1" measuredW="115" measuredH="22" zOrder="51" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Travel%20%26%20Leisure</text>
+          </controlProperties>
+        </control>
+        <control controlID="61" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="583" w="-1" h="-1" measuredW="64" measuredH="22" zOrder="52" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Woman</text>
+          </controlProperties>
+        </control>
+        <control controlID="62" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="607" w="-1" h="-1" measuredW="53" measuredH="22" zOrder="53" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Sport</text>
+          </controlProperties>
+        </control>
+        <control controlID="63" controlTypeID="com.balsamiq.mockups::CheckBox" x="415" y="631" w="-1" h="-1" measuredW="54" measuredH="22" zOrder="54" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Other</text>
+          </controlProperties>
+        </control>
+        <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="322" y="485" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="55" locked="false" isInGroup="153">
+          <controlProperties>
+            <text>Category</text>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="155" controlTypeID="__group__" x="464" y="874" w="103" h="48" measuredW="103" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="155" controlTypeID="__group__" x="463" y="1036" w="103" h="48" measuredW="103" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>tb-nav-tab-bot</controlName>
       </controlProperties>
@@ -809,7 +850,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="156" controlTypeID="__group__" x="368" y="874" w="96" h="48" measuredW="96" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="156" controlTypeID="__group__" x="367" y="1036" w="96" h="48" measuredW="96" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>tb-nav-tab-bot-selected</controlName>
       </controlProperties>
