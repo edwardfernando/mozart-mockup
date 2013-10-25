@@ -462,6 +462,8 @@
                 <backgroundAlpha>0.5</backgroundAlpha>
                 <borderColor>3355443</borderColor>
                 <color>0</color>
+                <href>advertiser-campaign-list%26bm%3Badvertiser-campaign-list.bmml%26bm%3Badvertiser-campaign-list.bmml%26bm%3Badvertiser-campaign-list.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22252%2C48%2C333%2C88%22%20href%3D%22advertiser-campaign-list.bmml%22%20alt%3D%22advertiser-campaign-list%22%20id%3D%223%22/%3E</map>
                 <shape>rectangle</shape>
                 <size>13</size>
                 <text>Campaign</text>

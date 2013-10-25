@@ -23,8 +23,8 @@
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="160" y="177" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>advertiser-control-panel%26bm%3Badvertiser-control-panel.bmml%26bm%3Badvertiser-control-panel.bmml%26bm%3Badvertiser-control-panel.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C137%2C173%2C164%22%20href%3D%22advertiser-control-panel.bmml%22%20alt%3D%22advertiser-control-panel%22%20id%3D%227%22/%3E</map>
+        <href>advertiser-home%26bm%3Badvertiser-home.bmml%26bm%3Badvertiser-home.bmml%26bm%3Badvertiser-home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C137%2C173%2C164%22%20href%3D%22advertiser-home.bmml%22%20alt%3D%22advertiser-home%22%20id%3D%227%22/%3E</map>
         <text>Login</text>
       </controlProperties>
     </control>
